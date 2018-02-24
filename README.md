@@ -1,7 +1,6 @@
 # WeeklyProgress_iris-anghel
 
 ## First few days ##
-Wow, can't believe I got selected to the second phase
 
 TODO
 - [x] Solve the forum access problem. Join Slack, although I can't follow along all the channels
@@ -16,8 +15,8 @@ TODO
 - [x] Lesson 14 "Common Responsive Patterns"
 - [ ] **Make a website responsive mini-project "the Brighton Times"** (a mockup news weppage that is provided unresponsive)
 - [x] Lesson 15 "Optimizations" - about responsive tables, fonts, ideal measure and minor breakpoints
-- [ ] Lesson 16 - **Make a Responsive Resume Site mini-project**
-- [ ] Lesson 17 "Writing READMEs" - documentation, markdown
+- [x] Lesson 16 - **Make a Responsive Resume Site mini-project**
+- [x] Lesson 17 "Writing READMEs" - documentation, markdown
 - [ ] Start [Learn Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
 
 ## Week 2 (26th Feb - 4th Mar) ##
