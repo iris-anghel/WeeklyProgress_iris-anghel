@@ -17,8 +17,16 @@ TODO
 ## Week 2 (26th Feb - 4th Mar) ##
 
 TODO
-- [ ] Continue [Learn Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
+- [x] Finish [Learn Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
+- [x] Struggle with *Grunt* and the responsive images task. Switch to *Gulp*. No more problems
 - [ ] Rewatch some Web Foundations lessons
 - [ ] **Make a website responsive mini-project "the Brighton Times"** (a mockup news weppage that is provided unresponsive)
-- [ ] **Build a portfolio site project** - pdf mockup provided
+- [x] **Build a portfolio site project** - pdf mockup provided. Although I did not respect the mockup because I did not like it, and it's only 90% done.
+
+## Week 3 (5th Mar - 11th Mar) ##
+
+TODO
+- [ ] **Build a portfolio site project** - really finish it
+- [ ] Start **Programming with Java Script** Lesson 8 "Syntax" -
+- [ ] 
  
