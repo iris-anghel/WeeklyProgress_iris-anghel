@@ -26,7 +26,8 @@ TODO
 ## Week 3 (5th Mar - 11th Mar) ##
 
 TODO
-- [ ] **Build a portfolio site project** - really finish it
-- [ ] Start **Programming with Java Script** Lesson 8 "Syntax" -
-- [ ] 
+- [x] **Build a portfolio site project** - completed and aproved
+- [x] **Programming with Java Script** Lesson 8 "Syntax" - ES6
+- [x] Lesson 9 - Git Bash
+- [ ] MORE ES6
  
