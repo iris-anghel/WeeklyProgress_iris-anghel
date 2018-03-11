@@ -20,7 +20,6 @@ TODO
 - [x] Finish [Learn Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
 - [x] Struggle with *Grunt* and the responsive images task. Switch to *Gulp*. No more problems
 - [ ] Rewatch some Web Foundations lessons
-- [ ] **Make a website responsive mini-project "the Brighton Times"** (a mockup news webpage that is provided unresponsive)
 - [x] **Build a portfolio site project** - pdf mockup provided. Although I did not respect the mockup because I wanted an improved version.
 
 ## Week 3 (5th Mar - 11th Mar) ##
@@ -30,7 +29,8 @@ TODO
 - [x] **Programming with Java Script** Lesson 8 "Syntax" - ES6
 - [x] Lesson 9 - Git Bash
 - [x] Lessons **Efficient Inputs**
-- [ ] Lesson **Fast forms**
+- [x] Lesson **Fast forms**
+- [ ] Build a checkout form
 
 
 ## Week 4 (12th Mar - 18th Mar) ##
