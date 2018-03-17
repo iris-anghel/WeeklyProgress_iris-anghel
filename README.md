@@ -2,7 +2,6 @@
 
 ## Week 1 (19th Feb - 25th Feb) ##
 
-TODO
 - [x] Complete the first project: Animal Trading Cards
 - [x] Lesson 11 "Why Responsive" - using DevTools for device emulation
 - [x] Lesson 12 "Starting small" - defining the viewport, calculating CSS pixels, relative sizes, tap targets
@@ -16,7 +15,6 @@ TODO
 
 ## Week 2 (26th Feb - 4th Mar) ##
 
-TODO
 - [x] Finish [Learn Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
 - [x] Struggle with *Grunt* and the responsive images task. Switch to *Gulp*. No more problems
 - [ ] Rewatch some Web Foundations lessons
@@ -24,21 +22,34 @@ TODO
 
 ## Week 3 (5th Mar - 11th Mar) ##
 
-TODO
-- [x] **Build a portfolio site project** - completed and aproved
+- [x] **Build a portfolio site project** - completed and approved
 - [x] **Programming with Java Script** Lesson 8 "Syntax" - ES6
 - [x] Lesson 9 - Git Bash
 - [x] Lessons **Efficient Inputs**
 - [x] Lesson **Fast forms**
+- [x] Lesson **Touch support**
 - [ ] Build a checkout form
 
 
 ## Week 4 (12th Mar - 18th Mar) ##
-- [ ] Lesson 10 - What is Version Control
-- [ ] Lesson 11 - Create a Git repo
-- [ ] Lesson 12 - Review a repo's history
-- [ ] Lesson 13 - Add commits to a repo
+
+- [x] Lesson 10 - What is Version Control
+- [x] Lesson 11 - Create a Git repo
+- [x] Lesson 12 - Review a repo's history
+- [x] Lesson 13 - Add commits to a repo
 - [ ] Lesson 14 - Tagging, branching and merging
 - [ ] Lesson 15 - Undoing changes
+
+
+## Week 5 (19th Mar - 22th Mar) ##
+
+- [ ] Lesson 16 - Working with remotes
+- [ ] Lesson 17 - Working on another developer's repository
+- [ ] Lesson 18 - Staying in sync with a remote repository
+
+
+
+## Later on TODO ##
+
 - [ ] MORE ES6
  
