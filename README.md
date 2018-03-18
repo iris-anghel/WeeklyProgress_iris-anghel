@@ -37,19 +37,32 @@
 - [x] Lesson 11 - Create a Git repo
 - [x] Lesson 12 - Review a repo's history
 - [x] Lesson 13 - Add commits to a repo
-- [ ] Lesson 14 - Tagging, branching and merging
-- [ ] Lesson 15 - Undoing changes
-
+- [x] Lesson 14 - Tagging, branching and merging
+- [x] Lesson 15 - Undoing changes
+- [x] Lesson 16 - Working with remotes
+- [x] Review project **Memory game** specifications, think about design and workflow
 
 ## Week 5 (19th Mar - 22th Mar) ##
 
-- [ ] Lesson 16 - Working with remotes
 - [ ] Lesson 17 - Working on another developer's repository
 - [ ] Lesson 18 - Staying in sync with a remote repository
 
+## 23th Mar - 28th Mar  - VACATION - ##
+
+## Week 6 (29th Mar - 1st Apr) ##
+
+- [ ] Rewatch lesson **The Basics: the DOM, $, and Selectors**
+- [ ] Rewatch lesson **The Tricks: DOM, $ manipulation**
+- [ ] Rewatch lesson **Event listeners with jQuery**
+- [ ] Lesson 19 - **The Document Object Model**
+- [ ] Lesson 20 - **Creating content with JavaScript**
+- [ ] Lesson 21 - **Working with browser events**
+- [ ] Lesson 22 - **Exercise: Pixel Art Maker**
+- [ ] Lesson 23 - **Performance**
 
 
 ## Later on TODO ##
 
 - [ ] MORE ES6
+
  
