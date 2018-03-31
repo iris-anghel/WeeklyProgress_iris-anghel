@@ -30,7 +30,6 @@
 - [x] Lesson **Touch support**
 - [ ] Build a checkout form
 
-
 ## Week 4 (12th Mar - 18th Mar) ##
 
 - [x] Lesson 10 - What is Version Control
@@ -42,14 +41,9 @@
 - [x] Lesson 16 - Working with remotes
 - [x] Review project **Memory game** specifications, think about design and workflow
 
-## Week 5 (19th Mar - 22th Mar) ##
+## 22nd Mar - 29th Mar  - VACATION - ##
 
-- [ ] Lesson 17 - Working on another developer's repository
-- [ ] Lesson 18 - Staying in sync with a remote repository
-
-## 23th Mar - 28th Mar  - VACATION - ##
-
-## Week 6 (29th Mar - 1st Apr) ##
+## Week 7 (1st Apr - 8th Apr) ##
 
 - [ ] Rewatch lesson **The Basics: the DOM, $, and Selectors**
 - [ ] Rewatch lesson **The Tricks: DOM, $ manipulation**
@@ -59,6 +53,13 @@
 - [ ] Lesson 21 - **Working with browser events**
 - [ ] Lesson 22 - **Exercise: Pixel Art Maker**
 - [ ] Lesson 23 - **Performance**
+- [ ] Start project **Memory game**
+
+## Week 8 (1st Apr - 8th Apr) ##
+
+- [ ] Finish project **Memory game**
+- [ ] Lesson 17 - Working on another developer's repository
+- [ ] Lesson 18 - Staying in sync with a remote repository
 
 
 ## Later on TODO ##
