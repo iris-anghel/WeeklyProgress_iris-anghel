@@ -48,10 +48,10 @@
 - [ ] Rewatch lesson **The Basics: the DOM, $, and Selectors**
 - [ ] Rewatch lesson **The Tricks: DOM, $ manipulation**
 - [ ] Rewatch lesson **Event listeners with jQuery**
-- [ ] Lesson 19 - **The Document Object Model**
-- [ ] Lesson 20 - **Creating content with JavaScript**
-- [ ] Lesson 21 - **Working with browser events**
-- [ ] Lesson 22 - **Exercise: Pixel Art Maker**
+- [x] Lesson 19 - **The Document Object Model**
+- [x] Lesson 20 - **Creating content with JavaScript**
+- [x] Lesson 21 - **Working with browser events**
+- [x] Lesson 22 - **Exercise: Pixel Art Maker**
 - [ ] Lesson 23 - **Performance**
 - [ ] Start project **Memory game**
 
