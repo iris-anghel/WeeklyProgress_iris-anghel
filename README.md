@@ -53,9 +53,9 @@
 - [x] Lesson 21 - **Working with browser events**
 - [x] Lesson 22 - **Exercise: Pixel Art Maker**
 - [ ] Lesson 23 - **Performance**
-- [ ] Start project **Memory game**
+- [x] Start project **Memory game**
 
-## Week 8 (1st Apr - 8th Apr) ##
+## Week 8 (9th Apr - 15th Apr) ##
 
 - [ ] Finish project **Memory game**
 - [ ] Lesson 17 - Working on another developer's repository
