@@ -70,7 +70,7 @@
 - [X] Lesson 1 - **Accessibillity Overview**
 - [X] Lesson 2 - **Focus**
 - [x] Lesson 3 - **Semantics Basics**
-- [ ] Lesson 4 - **Navigating Content**
+- [x] Lesson 4 - **Navigating Content**
 - [ ] Lesson 5 - **ARIA**
 - [ ] Lesson 6 - **Style**
 - [ ] Lesson 7 - **Objects in Depth**
