@@ -68,6 +68,7 @@
 *Exploring JS - Objects, Tools and Testing*
 
 **Web a11y course**
+
 - [X] Lesson 1 - **Accessibillity Overview**
 - [X] Lesson 2 - **Focus**
 - [x] Lesson 3 - **Semantics Basics**
@@ -75,13 +76,16 @@
 - [x] Lesson 5 - **ARIA**
 - [x] Lesson 6 - **Style**
 
-- [ ] Lesson 7 - **Objects in Depth**
-- [ ] Start designing the **Children Therapy private practice** website
+**OOP**
+- [x] Lesson 7 - **Objects in Depth**
+
+- [x] Start designing the **Children Therapy private practice** website
 
 ## Week 10 (23rd Apr - 29th Apr) ##
 
+**OOP**
 - [ ] Lesson 8 - **Functions at Runtime**
-- [ ] Lesson 9 - **Objects in Depth
+- [ ] Lesson 9 - **Objects in Depth**
 - [ ] Lesson 10 - **Classes and Objects**
 - [ ] Lesson 11 - **Functions**
 - [ ] Lesson 12 - **Built-ins**
