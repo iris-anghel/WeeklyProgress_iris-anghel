@@ -84,12 +84,11 @@
 ## Week 10 (23rd Apr - 29th Apr) ##
 
 **OOP**
-- [ ] Lesson 8 - **Functions at Runtime**
-- [ ] Lesson 9 - **Objects in Depth**
-- [ ] Lesson 10 - **Classes and Objects**
-- [ ] Lesson 11 - **Functions**
-- [ ] Lesson 12 - **Built-ins**
-- [ ] Lesson 13 - **Professional Developer-fu**
+- [x] Lesson 8 - **Functions at Runtime**
+- [ ] Lesson 9 - **Classes and Objects**
+- [ ] Lesson 10 - **Functions**
+- [ ] Lesson 11 - **Built-ins**
+- [ ] Lesson 12 - **Professional Developer-fu**
 
 
 
