@@ -85,11 +85,11 @@
 
 **OOP**
 - [x] Lesson 8 - **Functions at Runtime**
-- [ ] Lesson 9 - **Classes and Objects**
+- [x] Lesson 9 - **Classes and Objects**
+
 - [ ] Lesson 10 - **Functions**
 - [ ] Lesson 11 - **Built-ins**
 - [ ] Lesson 12 - **Professional Developer-fu**
-
 
 
 ## Later on TODO ##
