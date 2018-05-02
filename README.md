@@ -87,9 +87,12 @@
 - [x] Lesson 8 - **Functions at Runtime**
 - [x] Lesson 9 - **Classes and Objects**
 
-- [ ] Lesson 10 - **Functions**
+## Week 11 (30th Apr - 6th May) ##
+
+- [x] Lesson 10 - **Functions**
 - [ ] Lesson 11 - **Built-ins**
 - [ ] Lesson 12 - **Professional Developer-fu**
+- [ ] Identify classes, functions and flow for the **Classic Arcade Game Clone** project
 
 
 ## Later on TODO ##
