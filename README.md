@@ -90,7 +90,7 @@
 ## Week 11 (30th Apr - 6th May) ##
 
 - [x] Lesson 10 - **Functions**
-- [ ] Lesson 11 - **Built-ins**
+- [x] Lesson 11 - **Built-ins**
 - [ ] Lesson 12 - **Professional Developer-fu**
 - [ ] Identify classes, functions and flow for the **Classic Arcade Game Clone** project
 
