@@ -92,6 +92,7 @@
 - [x] Lesson 10 - **Functions**
 - [x] Lesson 11 - **Built-ins**
 - [x] Lesson 12 - **Professional Developer-fu**
+- [x] [The definitive guide to Object-oriented JavaScript](http://www.objectplayground.com/)
 - [ ] Identify classes, functions and flow for the **Classic Arcade Game Clone** project
 
 
