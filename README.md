@@ -91,7 +91,7 @@
 
 - [x] Lesson 10 - **Functions**
 - [x] Lesson 11 - **Built-ins**
-- [ ] Lesson 12 - **Professional Developer-fu**
+- [x] Lesson 12 - **Professional Developer-fu**
 - [ ] Identify classes, functions and flow for the **Classic Arcade Game Clone** project
 
 
