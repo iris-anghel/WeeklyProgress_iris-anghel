@@ -93,7 +93,18 @@
 - [x] Lesson 11 - **Built-ins**
 - [x] Lesson 12 - **Professional Developer-fu**
 - [x] [The definitive guide to Object-oriented JavaScript](http://www.objectplayground.com/)
-- [ ] Identify classes, functions and flow for the **Classic Arcade Game Clone** project
+- [x] Identify classes, functions and flow for the **Classic Arcade Game Clone** project
+
+## Week 12 (7th May - 13th May) ##
+
+- [ ] Finish **Classic Arcade Game Clone** project
+- [ ] Lesson 14 - **Introducing Web Tooling and Automation**
+- [ ] Lesson 15 - **Productive Editing**
+- [ ] Lesson 16 - **Powerful Builds**
+- [ ] Lesson 17 - **Expressive Live Editing**
+- [ ] Lesson 18 - **How to prevent disasters**
+- [ ] Lesson 19 - **Awesome Optimizations**
+- [ ] Lesson 20 - **Web Tooling and Automation Conclusion**
 
 
 ## Later on TODO ##
@@ -101,8 +112,6 @@
 - [ ] MORE ES6
 - [ ] Rewatch some **Web Foundations** lessons
 - [ ] Build a checkout form
-- [ ] Rewatch lesson **The Basics: the DOM, $, and Selectors**
-- [ ] Rewatch lesson **The Tricks: DOM, $ manipulation**
-- [ ] Rewatch lesson **Event listeners with jQuery**
+
 
  
