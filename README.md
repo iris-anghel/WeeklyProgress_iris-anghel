@@ -98,9 +98,9 @@
 ## Week 12 (7th May - 13th May) ##
 
 - [ ] Finish **Classic Arcade Game Clone** project
-- [ ] Lesson 14 - **Introducing Web Tooling and Automation**
-- [ ] Lesson 15 - **Productive Editing**
-- [ ] Lesson 16 - **Powerful Builds**
+- [x] Lesson 14 - **Introducing Web Tooling and Automation**
+- [x] Lesson 15 - **Productive Editing**
+- [x] Lesson 16 - **Powerful Builds**
 - [ ] Lesson 17 - **Expressive Live Editing**
 - [ ] Lesson 18 - **How to prevent disasters**
 - [ ] Lesson 19 - **Awesome Optimizations**
