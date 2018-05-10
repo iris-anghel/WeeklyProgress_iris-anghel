@@ -101,8 +101,8 @@
 - [x] Lesson 14 - **Introducing Web Tooling and Automation**
 - [x] Lesson 15 - **Productive Editing**
 - [x] Lesson 16 - **Powerful Builds**
-- [ ] Lesson 17 - **Expressive Live Editing**
-- [ ] Lesson 18 - **How to prevent disasters**
+- [x] Lesson 17 - **Expressive Live Editing**
+- [x] Lesson 18 - **How to prevent disasters**
 - [ ] Lesson 19 - **Awesome Optimizations**
 - [ ] Lesson 20 - **Web Tooling and Automation Conclusion**
 
