@@ -109,8 +109,8 @@
 - [x] Lesson 20 - **Web Tooling and Automation Conclusion**
 
 **Testing course**
-- [ ] Lesson 21 - **Rethinking testing**
-- [ ] Lesson 22 - **Writing test suites**
+- [x] Lesson 21 - **Rethinking testing**
+- [x] Lesson 22 - **Writing test suites**
 
 
 ## Later on TODO ##
