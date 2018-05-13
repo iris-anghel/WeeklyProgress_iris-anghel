@@ -112,6 +112,8 @@
 - [x] Lesson 21 - **Rethinking testing**
 - [x] Lesson 22 - **Writing test suites**
 
+- [x] Finish **Feed Reader Testing** project - submitted and approved
+
 
 ## Later on TODO ##
 
