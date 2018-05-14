@@ -114,6 +114,14 @@
 
 - [x] Finish **Feed Reader Testing** project - submitted and approved
 
+## Week 13 (14th May - 20th May) ##
+
+- [ ] Lesson 18 - Staying in sync with a remote repository (from week 8)
+- [ ] Finish **Classic Arcade Game Clone** project (from week 12) - it is functional, but needs improvements
+
+Start **Front-End Applications** section
+- [ ] Lesson 1 - **Changing expectations**
+- [ ] Lesson 2 - **Refactoring with separation of concerns**
 
 ## Later on TODO ##
 
