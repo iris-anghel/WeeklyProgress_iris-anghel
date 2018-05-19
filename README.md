@@ -120,7 +120,7 @@
 - [ ] Finish **Classic Arcade Game Clone** project (from week 12) - it is functional, but needs improvements
 
 Start **Front-End Applications** section
-- [ ] Lesson 1 - **Changing expectations**
+- [x] Lesson 1 - **Changing expectations**
 - [ ] Lesson 2 - **Refactoring with separation of concerns**
 
 ## Later on TODO ##
