@@ -123,11 +123,15 @@ Start **Front-End Applications** section
 - [x] Lesson 1 - **Changing expectations**
 - [ ] Lesson 2 - **Refactoring with separation of concerns**
 
-## Later on TODO ##
+## Week 14 (21st May - 27th May) ##
 
-- [ ] MORE ES6
-- [ ] Rewatch some **Web Foundations** lessons
-- [ ] Build a checkout form
+- [ ] Lesson 3 - **Creating Promises**
+- [ ] Lesson 4 - **Chaining Promises**
+- [ ] Lesson 5 - **Ajax with XHR**
+- [ ] Lesson 6 - **Ajax with jQuery**
+- [ ] Lesson 7 - **Ajax with Fetch**
+- [ ] Lesson 8 - **Features of Single Page Apps**
+- [ ] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
 
 
  
