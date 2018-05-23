@@ -97,8 +97,6 @@
 
 ## Week 12 (7th May - 13th May) ##
 
-- [ ] Finish **Classic Arcade Game Clone** project
-
 **Web tooling and automation course**
 - [x] Lesson 14 - **Introducing Web Tooling and Automation**
 - [x] Lesson 15 - **Productive Editing**
@@ -117,15 +115,15 @@
 ## Week 13 (14th May - 20th May) ##
 
 - [x] Lesson 18 - Staying in sync with a remote repository (from week 8)
-- [ ] Finish **Classic Arcade Game Clone** project (from week 12) - it is functional, but needs improvements
+- [x] Work on **Classic Arcade Game Clone** project (from week 12) - it is functional, but needs improvements
 
 Start **Front-End Applications** section
 - [x] Lesson 1 - **Changing expectations**
-- [ ] Lesson 2 - **Refactoring with separation of concerns**
+- [x] Lesson 2 - **Refactoring with separation of concerns**
 
 ## Week 14 (21st May - 27th May) ##
 
-- [ ] Lesson 3 - **Creating Promises**
+- [x] Lesson 3 - **Creating Promises**
 - [ ] Lesson 4 - **Chaining Promises**
 - [ ] Lesson 5 - **Ajax with XHR**
 - [ ] Lesson 6 - **Ajax with jQuery**
@@ -133,5 +131,5 @@ Start **Front-End Applications** section
 - [ ] Lesson 8 - **Features of Single Page Apps**
 - [ ] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
 
-
+- [ ] Fix issues and resubmit **Classic Arcade Game Clone** project
  
