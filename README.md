@@ -4,7 +4,7 @@
 
 - [x] Lesson 3 - **Creating Promises**
 - [x] Lesson 4 - **Chaining Promises**
-- [ ] Lesson 5 - **Ajax with XHR**
+- [x] Lesson 5 - **Ajax with XHR**
 - [ ] Lesson 6 - **Ajax with jQuery**
 - [ ] Lesson 7 - **Ajax with Fetch**
 - [ ] Lesson 8 - **Features of Single Page Apps**
