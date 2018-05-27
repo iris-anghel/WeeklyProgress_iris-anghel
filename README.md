@@ -1,5 +1,15 @@
 # WeeklyProgress_iris-anghel
 
+## Week 15 (28th May - 3rd June) ##
+
+- [ ] Lesson 9 - **Examine a Framework's source - Backbone**
+- [ ] Lesson 10 - **Angular**
+- [ ] Lesson 11 - **Ember**
+- [ ] Lesson 12 - **The Benefits of Offline First**
+- [ ] Lesson 13 - **Introducing the Service Worker**
+- [ ] Lesson 14 - **Features of Single Page Apps**
+- [ ] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
+
 ## Week 14 (21st May - 27th May) ##
 
 - [x] Lesson 3 - **Creating Promises**
@@ -8,7 +18,6 @@
 - [x] Lesson 6 - **Ajax with jQuery**
 - [x] Lesson 7 - **Ajax with Fetch**
 - [x] Lesson 8 - **Features of Single Page Apps**
-- [ ] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
 - [ ] Fix issues and resubmit **Classic Arcade Game Clone** project
 
 ## Week 13 (14th May - 20th May) ##
