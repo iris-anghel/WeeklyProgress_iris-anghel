@@ -2,8 +2,8 @@
 
 ## Week 15 (28th May - 3rd June) ##
 
-- [ ] Lesson 9 - **Examine a Framework's source - Backbone**
-- [ ] Lesson 10 - **Angular**
+- [x] Lesson 9 - **Examine a Framework's source - Backbone**
+- [x] Lesson 10 - **Angular**
 - [ ] Lesson 11 - **Ember**
 - [ ] Lesson 12 - **The Benefits of Offline First**
 - [ ] Lesson 13 - **Introducing the Service Worker**
@@ -18,7 +18,7 @@
 - [x] Lesson 6 - **Ajax with jQuery**
 - [x] Lesson 7 - **Ajax with Fetch**
 - [x] Lesson 8 - **Features of Single Page Apps**
-- [ ] Fix issues and resubmit **Classic Arcade Game Clone** project
+- [x] Fix issues and resubmit **Classic Arcade Game Clone** project
 
 ## Week 13 (14th May - 20th May) ##
 
