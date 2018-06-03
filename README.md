@@ -4,10 +4,9 @@
 
 - [x] Lesson 9 - **Examine a Framework's source - Backbone**
 - [x] Lesson 10 - **Angular**
-- [ ] Lesson 11 - **Ember**
+- [x] Lesson 11 - **Ember**
 - [ ] Lesson 12 - **The Benefits of Offline First**
 - [ ] Lesson 13 - **Introducing the Service Worker**
-- [ ] Lesson 14 - **Features of Single Page Apps**
 - [ ] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
 
 ## Week 14 (21st May - 27th May) ##
