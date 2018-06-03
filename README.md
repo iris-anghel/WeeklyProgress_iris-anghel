@@ -1,13 +1,18 @@
 # WeeklyProgress_iris-anghel
 
+## Week 16 (4th June - 10th June) ##
+
+- [ ] Lesson 13 - **Introducing the Service Worker**
+- [ ] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
+- [ ] [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
+- [ ] Start planning the **Restaurant Reviews App** project
+
 ## Week 15 (28th May - 3rd June) ##
 
 - [x] Lesson 9 - **Examine a Framework's source - Backbone**
 - [x] Lesson 10 - **Angular**
 - [x] Lesson 11 - **Ember**
 - [ ] Lesson 12 - **The Benefits of Offline First**
-- [ ] Lesson 13 - **Introducing the Service Worker**
-- [ ] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
 
 ## Week 14 (21st May - 27th May) ##
 
