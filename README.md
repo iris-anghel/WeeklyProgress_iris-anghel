@@ -12,7 +12,7 @@
 - [x] Lesson 9 - **Examine a Framework's source - Backbone**
 - [x] Lesson 10 - **Angular**
 - [x] Lesson 11 - **Ember**
-- [ ] Lesson 12 - **The Benefits of Offline First**
+- [x] Lesson 12 - **The Benefits of Offline First**
 
 ## Week 14 (21st May - 27th May) ##
 
