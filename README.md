@@ -5,6 +5,8 @@
 - [ ] Lesson 13 - **Introducing the Service Worker**
 - [ ] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
 - [ ] [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
+- [ ] [How to Setup a Basic Service Worker - with Caching](https://www.youtube.com/watch?v=BfL3pprhnms)
+- [ ] [A beginner’s guide to Service Workers](https://medium.com/samsung-internet-dev/a-beginners-guide-to-service-workers-f76abf1960f6)
 - [ ] Start planning the **Restaurant Reviews App** project
 
 ## Week 15 (28th May - 3rd June) ##
