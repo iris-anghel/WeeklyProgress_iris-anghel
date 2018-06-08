@@ -2,10 +2,10 @@
 
 ## Week 16 (4th June - 10th June) ##
 
-- [ ] Lesson 13 - **Introducing the Service Worker**
+- [x] Lesson 13 - **Introducing the Service Worker**
 - [ ] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
 - [ ] [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
-- [ ] [How to Setup a Basic Service Worker - with Caching](https://www.youtube.com/watch?v=BfL3pprhnms)
+- [x] [How to Setup a Basic Service Worker - with Caching](https://www.youtube.com/watch?v=BfL3pprhnms)
 - [ ] [A beginner’s guide to Service Workers](https://medium.com/samsung-internet-dev/a-beginners-guide-to-service-workers-f76abf1960f6)
 - [ ] Start planning the **Restaurant Reviews App** project
 
