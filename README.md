@@ -1,5 +1,13 @@
 # WeeklyProgress_iris-anghel
 
+## Week 18 (18th June - 24th June) ##
+- [x] Finish the **Restaurant Reviews App** project
+- [ ] **HTTP's Request/Response Cycle**
+- [ ] **HTTP/1**
+- [ ] **HTTPS**
+- [ ] **HTTP/2**
+- [ ] **Security**
+
 ## Week 17 (11th June - 17th June) ##
 
 - [x] [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
