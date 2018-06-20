@@ -2,9 +2,9 @@
 
 ## Week 17 (11th June - 17th June) ##
 
-- [ ] [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
-- [ ] [Making a Simple Site Work Offline with ServiceWorker](https://css-tricks.com/serviceworker-for-offline/)
-- [ ] Work on the **Restaurant Reviews App** project
+- [x] [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
+- [x] [Making a Simple Site Work Offline with ServiceWorker](https://css-tricks.com/serviceworker-for-offline/)
+- [x] Work on the **Restaurant Reviews App** project
 
 ## Week 16 (4th June - 10th June) ##
 
