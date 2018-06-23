@@ -1,12 +1,21 @@
 # WeeklyProgress_iris-anghel
 
+## Week 19 (25th June - 1st July) ##
+
+- [ ] REACT lesson 2 - **Rendering UI with React**
+- [ ] REACT lesson 3 - **State Manegement**
+- [ ] REACT lesson 4 - **React UI with External Data**
+- [ ] REACT lesson 5 - **Managing App Location with React Router**
+
 ## Week 18 (18th June - 24th June) ##
+
 - [x] Finish the **Restaurant Reviews App** project
-- [ ] **HTTP's Request/Response Cycle**
-- [ ] **HTTP/1**
-- [ ] **HTTPS**
-- [ ] **HTTP/2**
-- [ ] **Security**
+- [x] **HTTP's Request/Response Cycle**
+- [x] **HTTP/1**
+- [x] **HTTPS**
+- [x] **HTTP/2**
+- [x] **Security**
+- [ ] REACT lesson 1 - **Why React?**
 
 ## Week 17 (11th June - 17th June) ##
 
