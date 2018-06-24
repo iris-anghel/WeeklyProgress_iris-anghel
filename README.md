@@ -15,7 +15,7 @@
 - [x] **HTTPS**
 - [x] **HTTP/2**
 - [x] **Security**
-- [ ] REACT lesson 1 - **Why React?**
+- [x] REACT lesson 1 - **Why React?**
 
 ## Week 17 (11th June - 17th June) ##
 
