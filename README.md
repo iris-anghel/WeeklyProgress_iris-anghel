@@ -2,8 +2,8 @@
 
 ## Week 19 (25th June - 1st July) ##
 
-- [ ] REACT lesson 2 - **Rendering UI with React**
-- [ ] REACT lesson 3 - **State Manegement**
+- [x] REACT lesson 2 - **Rendering UI with React**
+- [x] REACT lesson 3 - **State Manegement**
 - [ ] REACT lesson 4 - **React UI with External Data**
 - [ ] REACT lesson 5 - **Managing App Location with React Router**
 
