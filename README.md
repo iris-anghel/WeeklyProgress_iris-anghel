@@ -4,8 +4,8 @@
 
 - [x] REACT lesson 2 - **Rendering UI with React**
 - [x] REACT lesson 3 - **State Manegement**
-- [ ] REACT lesson 4 - **React UI with External Data**
-- [ ] REACT lesson 5 - **Managing App Location with React Router**
+- [x] REACT lesson 4 - **React UI with External Data**
+- [x] REACT lesson 5 - **Managing App Location with React Router**
 
 ## Week 18 (18th June - 24th June) ##
 
