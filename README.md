@@ -3,8 +3,8 @@
 ## Week 20 (2nd July - 8th July) ##
 
 - [ ] rewatch REACT lessons
-- [ ] [9 Things every React.js Beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
-- [ ] [React Elements vs React Components](https://tylermcginnis.com/react-elements-vs-react-components/)
+- [x] [9 Things every React.js Beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
+- [x] [React Elements vs React Components](https://tylermcginnis.com/react-elements-vs-react-components/)
 - [ ] [React docs](https://reactjs.org/docs/thinking-in-react.html)
 
 ## Week 19 (25th June - 1st July) ##
