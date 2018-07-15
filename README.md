@@ -1,8 +1,19 @@
 # WeeklyProgress_iris-anghel
 
+## Week 22 (16th July - 22nd July) ##
+
+- [ ] finish the **MyReads** project
+- [ ] Getting started with the APIs
+- [ ] Understanding API services
+- [ ] Using the APIs in practice
+
+## Week 21 (9th July - 15th July) ##
+
+- [x] work on the **MyReads** project
+
 ## Week 20 (2nd July - 8th July) ##
 
-- [ ] rewatch REACT lessons
+- [X] rewatch REACT lessons
 - [x] [9 Things every React.js Beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
 - [x] [React Elements vs React Components](https://tylermcginnis.com/react-elements-vs-react-components/)
 - [ ] [React docs](https://reactjs.org/docs/thinking-in-react.html)
