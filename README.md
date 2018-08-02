@@ -1,15 +1,22 @@
 # WeeklyProgress_iris-anghel
 
+## Week 24 (30th July - 5th Aug) ##
+
+- [ ] Review project **Neighborhood Map** specifications, set up plan
+
+## Week 23 (23rd July - 29th July) ##
+
+- [x] Finish the **MyReads** project 
+
 ## Week 22 (16th July - 22nd July) ##
 
-- [ ] finish the **MyReads** project
-- [ ] Getting started with the APIs
-- [ ] Understanding API services
-- [ ] Using the APIs in practice
+- [x] Getting started with the APIs
+- [x] Understanding API services
+- [x] Using the APIs in practice
 
 ## Week 21 (9th July - 15th July) ##
 
-- [x] work on the **MyReads** project
+- [x] Work on the **MyReads** project
 
 ## Week 20 (2nd July - 8th July) ##
 
