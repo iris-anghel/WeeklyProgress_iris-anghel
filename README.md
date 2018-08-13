@@ -2,7 +2,8 @@
 
 ## Week 24 (30th July - 5th Aug) ##
 
-- [ ] Review project **Neighborhood Map** specifications, set up plan
+- [X] Review project **Neighborhood Map** specifications, set up plan
+- [X] Finish project **Neighborhood Map** 
 
 ## Week 23 (23rd July - 29th July) ##
 
